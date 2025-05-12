@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/chapplallie/api-poker-appWeb.git
+[submodule "front"]
+	path = front
+	url = https://github.com/chapplallie/frontend-app.git
